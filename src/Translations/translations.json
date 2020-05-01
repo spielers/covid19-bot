@@ -1,0 +1,12 @@
+{
+    "en": {
+        "welcomeTitle": "Welcome to",
+        "muteTitle": "Mute",
+        "unMuteTitle": "Unmute",
+        "inputTitle": "Type your question and press enter",
+        "sendTitle": "Send",
+        "microphoneTitle": "Voice Input",
+        "recognitionUnavailable": "Speech recognition is not available"
+    }
+
+}
